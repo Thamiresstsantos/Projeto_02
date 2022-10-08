@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.header{
+    background-color: beige;
+}
